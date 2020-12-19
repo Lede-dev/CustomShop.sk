@@ -36,7 +36,7 @@
 
 # Commands
 
-### Customshop
+### Custom Shop
 ```
 - /customshop - cshop, cs
 - /cs help
