@@ -37,22 +37,28 @@
 # Commands
 
 ### Customshop
+```
 - /customshop - cshop, cs
 - /cs help
 - /cs <item/shop> <create/list/load>
 - /cs <item/shop> <delete> <code>
+``` 
 
 ### Custom Money
+```
 - /csmoney - csm, cm
 - /cm help
 - /cm <set/add/remove/send> <player> <money>
+```
 
 ### Custom Lore
+```
 - /cslore - csl, cl
 - /cl help
 - /cl <name> <string>
 - /cl <lore> <string> <line>
-  
+```
+
 # How to use
 - [Link](https://cafe.naver.com/minecraftgame/1778030)
   
